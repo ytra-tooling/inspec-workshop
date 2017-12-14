@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS CentOS 6 InSpec Workshop
+maintainer: Siebe Ytsma
+copyright: Siebe Ytsma
+copyright_email: siebe@ytra.nl
+license: Apache-2.0
+summary: An exercise in building a CentOS profile by writing the controls with InSpec
+version: 0.1.0
